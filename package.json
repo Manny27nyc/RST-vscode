@@ -278,8 +278,8 @@
 		"tslib": "1.9.3",
 		"tslint": "5.11.0",
 		"typescript": "3.1.1",
-		"vscode": "1.1.21",
-		"webpack": "4.20.0",
-		"webpack-cli": "3.1.2"
+		"vscode": "1.1.37",
+		"webpack": "5.93.0",
+		"webpack-cli": "3.3.12"
 	}
 }
